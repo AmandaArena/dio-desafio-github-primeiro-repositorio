@@ -1,0 +1,9 @@
+Comandos do Git Bash para não esquecer!
+
+
+COMANDOSUTILIDADECD nome ou endereço pastaEntrar na pastaCD ..Voltar uma pastaLsLista todos os diretórios da pastaLs .aLista todos os diretórios da pasta, e os ocultosCtrl + LLimpar telaTabCompleta o nome digitadomkdir nome pastaCria um novo diretório (pasta)Echo informação do arquivo > nome arquivo.txtCria um novo arquivoDel nome pastaDeleta todos os arquivos da pastaRmdir nome pasta /s /qApaga a pasta com todos os arquivos
+
+
+COMANDOSUTILIDADEGit statusRevela o status do commitGit add xxxxxxLeva o arquivo a status de stagedGit add *Leva todos os arquivos do working space para o status de stagedGit commit -m “comentário da revisão”Salva aquela versão do códigoGit remote add origin link do repositórioAdiciona repositório local ao githubGit remote -vVisualiza todos os repositórios do GithubGit pull origin master Puxa o repositório remoto para a sua máquinaGit clone link do repositórioClona repositório remoto para a sua máquina
+
+ 
