@@ -1,9 +1,51 @@
-Comandos do Git Bash para não esquecer!
+# Comandos do Git Bash para não esquecer!
 
 
-COMANDOSUTILIDADECD nome ou endereço pastaEntrar na pastaCD ..Voltar uma pastaLsLista todos os diretórios da pastaLs .aLista todos os diretórios da pasta, e os ocultosCtrl + LLimpar telaTabCompleta o nome digitadomkdir nome pastaCria um novo diretório (pasta)Echo informação do arquivo > nome arquivo.txtCria um novo arquivoDel nome pastaDeleta todos os arquivos da pastaRmdir nome pasta /s /qApaga a pasta com todos os arquivos
+## COMANDOS _ UTILIDADE
 
 
-COMANDOSUTILIDADEGit statusRevela o status do commitGit add xxxxxxLeva o arquivo a status de stagedGit add *Leva todos os arquivos do working space para o status de stagedGit commit -m “comentário da revisão”Salva aquela versão do códigoGit remote add origin link do repositórioAdiciona repositório local ao githubGit remote -vVisualiza todos os repositórios do GithubGit pull origin master Puxa o repositório remoto para a sua máquinaGit clone link do repositórioClona repositório remoto para a sua máquina
+CD *nome ou endereço pasta*  _  Entrar na pasta
+
+CD ..  _  Voltar uma pasta
+
+Ls  _  Lista todos os diretórios da pasta
+
+Ls .a  _  Lista todos os diretórios da pasta, e os ocultos
+
+Ctrl + L  _  Limpar tela
+
+Tab  _  Completa o nome digitado
+
+mkdir *nome pasta*  _  Cria um novo diretório (pasta)
+
+echo *informação do arquivo* > *nome arquivo*.txt  _  Cria um novo arquivo
+
+Del *nome pasta*  _  Deleta todos os arquivos da pasta
+
+Rmdir *nome pasta* /s /q  _  Apaga a pasta com todos os arquivos
+
+
+
+
+## COMANDOS _ UTILIDADE
+
+
+Git status  _  Revela o status do commit
+
+Git add *nome arquivo*  _  Leva o arquivo a status de staged
+
+Git add *  _  Leva todos os arquivos do working space para o status de staged
+
+Git commit -m “*comentário da revisão*”  _  Salva aquela versão do código
+
+Git remote add origin *link do repositório*  _  Adiciona repositório local ao Github
+
+Git remote -v  _  Visualiza todos os repositórios do Github
+
+Git pull origin master  _  Puxa o repositório remoto para a sua máquina
+
+Git clone *link do repositório*  _  
+Clona repositório remoto para a sua máquina
+
 
  
